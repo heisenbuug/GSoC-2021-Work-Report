@@ -50,7 +50,7 @@ Go through the PR to follow the discussions. You can also jump to [IRC](https://
 
 ## Results
 <p align="center">
-  <img width="556" height="112" src="https://github.com/heisenbuug/GSoC-2021-Work-Report/blob/main/src/speedup.jpeg">
+  <img width="300" height="300" src="https://github.com/heisenbuug/GSoC-2021-Work-Report/blob/main/src/speedup.jpeg">
 </p>
 
 I will add more details about this soon.
