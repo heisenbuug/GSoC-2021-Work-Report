@@ -47,6 +47,14 @@ All of my work in wrapped in one PR only. You can have a look at the [PR](https:
 Go through the PR to follow the discussions. You can also jump to [IRC](https://gitter.im/mlpack/mlpack). There are also mlpack [IRC logs](https://www.mlpack.org/irc/logs-all.html) which [Ryan](https://github.com/rcurtin) has worked very hard to maintain so you can have a look there as well.
 
  Best way to clear your querries? **Ping me!!!**. I would be more than happy to hear your views and clear any doubts that you have.
+
+## Results
+<p align="center">
+  <img width="556" height="112" src="https://github.com/heisenbuug/GSoC-2021-Work-Report/blob/main/src/speedup.jpeg">
+</p>
+
+I will add more details about this soon.
+
 ## Blog
 
 I also logged my weekly progress and updates in form of blog. You can have a look [here](https://heisenbuug.github.io/).
